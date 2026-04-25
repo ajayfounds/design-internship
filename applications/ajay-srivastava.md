@@ -1,4 +1,4 @@
-# Application: [Your Name]
+# Application: Ajay Kr. Srivastava
 
 > **Instructions:** Copy this file to `applications/your-name.md` (use kebab-case — e.g. `priya-sharma.md`).
 > Fill in each of the 5 sections below. Delete these instructions before you open your PR.
@@ -7,15 +7,15 @@
 
 ## 1. Name
 
-_Your full name._
+Ajay Kumar Srivastava
 
 ## 2. Portfolio
 
-_Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see your work._
+https://ajaysri.framer.website
 
 ## 3. LinkedIn
 
-_Link to your LinkedIn profile._
+https://www.linkedin.com/in/ajaysri8/
 
 ## 4. A project you've shipped recently
 
