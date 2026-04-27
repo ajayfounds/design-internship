@@ -19,7 +19,8 @@ https://www.linkedin.com/in/ajaysri8/
 
 ## 4. A project you've shipped recently
 
-sage-moneytracker.vercel.app/
+https://sage-moneytracker.vercel.app/
+
 Sage is a behavior-first personal finance app that helps users feel in control of money by turning spending, goals, and emotions into clear, actionable insights. I designed the end-to-end product experience... from onboarding and information architecture to the Home, Activity, Goals, and Pulse layers... focusing on pattern recognition, low-friction inputs, and non-judgmental guidance. The core idea was to move beyond tracking into understanding why money behavior happens.
 
 ## 5. Why you want to join Amber
